@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8687173-ab30-477b-af1c-024de6ac4653" name="Changes" comment="" />
+    <list default="true" id="c8687173-ab30-477b-af1c-024de6ac4653" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,19 @@
       <recent name="C:\Users\panos\OneDrive\Desktop\Classwork_319\untitled\personal" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="personal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="personal" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +73,9 @@
       <option name="presentableId" value="Default" />
       <updated>1738343425993</updated>
       <workItem from="1738343427183" duration="525000" />
-      <workItem from="1738344137836" duration="656000" />
+      <workItem from="1738344137836" duration="730000" />
+      <workItem from="1738344903896" duration="20000" />
+      <workItem from="1738344929469" duration="25000" />
     </task>
     <servers />
   </component>
